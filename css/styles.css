@@ -1,0 +1,18 @@
+body {
+  background-color:#222;
+}
+
+.user-logos {
+  margin: 0 auto;
+	width: 80px;
+}
+li {
+  padding-bottom:40px;
+  list-style:none;
+}
+a {
+  color: navy;
+}
+a:hover {
+  text-decoration:none;
+}
